@@ -1,5 +1,8 @@
 # Soft_Interference_Cancellation_MIMO_detection
-This code base provides a reproduction of the method in Iterative Soft Interference Cancellation for Multiple Antenna Systems
+This repository provides a reproduction of the method in this paper:
+*Won-Joon Choi, Kok-Wui Cheong and J. M. Cioffi, "Iterative soft interference cancellation for multiple antenna systems," 2000 IEEE Wireless Communications and Networking Conference. Conference Record (Cat. No.00TH8540), Chicago, IL, USA, 2000, pp. 304-309 vol.1, doi: 10.1109/WCNC.2000.904647.*
+(https://ieeexplore.ieee.org/document/904647)
+
 ## Citation
 If you use this code, please cite it as follows:
 
