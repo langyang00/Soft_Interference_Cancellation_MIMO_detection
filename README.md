@@ -4,7 +4,7 @@ This code base provides a reproduction of the method in Iterative Soft Interfere
 If you use this code, please cite it as follows:
 
 ```bibtex
-@misc{YourRepo,
+@misc{yl_SIC_2025,
   author       = {Lang Yang},
   title        = {Soft Interference Cancellation MIMO detection},
   year         = {2025},
