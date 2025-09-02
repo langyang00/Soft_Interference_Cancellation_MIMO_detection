@@ -10,5 +10,5 @@ If you use this code, please cite it as follows:
   year         = {2025},
   publisher    = {GitHub},
   journal      = {GitHub repository},
-  howpublished = {\url{[https://github.com/YourUsername/YourRepo](https://github.com/langyang00/Soft_Interference_Cancellation_MIMO_detection)}}
+  howpublished = {\url{https://github.com/langyang00/Soft_Interference_Cancellation_MIMO_detection}}
 }
