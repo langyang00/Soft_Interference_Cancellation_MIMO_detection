@@ -9,6 +9,8 @@ If you use this code, please also refer to my blog post for more details:
 
 [Iterative Soft Interference Cancellation](https://zhuanlan.zhihu.com/p/1945874391775806728)
 
+## Software Versions
+* MATLAB R2025a
 
 ## Citation
 If you use this code, please cite it as follows:
